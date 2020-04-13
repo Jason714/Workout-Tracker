@@ -10,7 +10,7 @@ The user is able to:
 
   * Add new exercises to a new workout plan.
   * Add exercises to a previous workout plan.
-  * View multiple the combined weight of multiple exercises on the `stats` page.
+  * View multiple the combined weight of multiple exercises on the `dashboard` page.
 
 <img src="assets/select-exercise.png">
 
