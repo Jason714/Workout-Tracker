@@ -8,9 +8,10 @@ When the user loads the page, they are given the option to create a new workout,
 
 The user is able to:
 
+  * Select an exercise type (resistance/cardio)
   * Add new exercises to a new workout plan.
-  * Add exercises to a previous workout plan.
-  * View multiple the combined weight of multiple exercises on the `dashboard` page.
+  * Add more exercises to a current workout.
+  * View charts of workouts performed on the `dashboard` page.
 
 <img src="assets/select-exercise.png">
 
